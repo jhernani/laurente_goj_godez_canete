@@ -1,0 +1,17 @@
+.md-intro .btn-green:hover {background: none;}
+.origami {width: 265px;}
+.origami.last {border-right: 1px solid #EEE;}
+.md-parallax-1 .md-box, 
+.md-parallax-2 .md-box, 
+.md-parallax-3 .md-box {
+	background-image: url('../images/bg-para.png');
+}
+.element .btn-group .btn {
+	margin: 0 3px;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+}
+.md-btn-group .btn-white:hover {
+	background-image: url('../images/bg-btn.png');
+}

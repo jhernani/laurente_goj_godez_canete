@@ -1,0 +1,48 @@
+.md-nav-wrap,
+#accordion h3, #toogle h3 {
+    border-color: #00BFFF;
+}
+
+.lavaLamp li.back,
+.md-navbar.nav-fix,
+#md-features .kami.origami-content,
+#accordion h3.ui-state-active,
+#toogle h3.ui-state-active,
+.buy-now {
+    background-color: #00BFFF;
+}
+.md-navbar .md-logo h1 {
+    background: url('../images/logo-blue.png') no-repeat 0 0;
+}
+
+.md-review .md-dialog {
+    background: rgba(40,190,255,0.9);
+}
+.md-review .md-dialog:after {
+    border-top-color: rgba(40,190,255,0.9);
+}
+
+
+.kami,
+.kami [class^="icon-"],
+.element h2,
+#toogle h3 [class^="icon-"],
+.social-copyright [class^="icon-"]:hover {
+    color: #00BFFF;
+}
+
+.tabs-inner ul li.ui-tabs-active a {
+    border-top: 2px solid #00BFFF;
+}
+
+:selection,
+::-moz-selection {
+    background-color: #00BFFF;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+    .md-navbar .md-logo h1 {
+        background-image: url('../images/logo-blue@2x.png');
+        background-size: 144px 32px;
+    }
+}

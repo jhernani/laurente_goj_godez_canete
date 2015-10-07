@@ -1,0 +1,60 @@
+.crass-nav 
+{
+	background-color: #00b22d;
+	text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+	box-shadow: 0 1px 0 rgba(255,255,255,.1);
+}
+
+.btn-signin 
+{
+	background-color: #00b22d;	
+}
+
+.signin-card 
+{
+	box-shadow: 2px 2px 2px #888888;
+}
+
+.profile 
+{
+	max-width: 200px;
+	max-height: 200px;
+	margin: 0 auto;	
+}
+
+.main 
+{
+	padding-top: 30px;
+	min-height: 800px;
+}
+
+.page-header
+{
+	border: none;
+}
+
+.admin-panel
+{
+	padding-top: 18px;
+	min-height: 70px;
+}
+
+.room-pic
+{
+	max-width: 100px;
+	max-height: 100px;
+	background-color: #0C0;	
+	margin: 0 auto;	
+}
+
+.list-group-item
+{
+	background-color: #00b22d;
+	color: #FFF;
+}
+
+.btn-success
+{
+	background-color: #00b22d;
+	border-color: #060;
+}

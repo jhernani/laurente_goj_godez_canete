@@ -1,0 +1,48 @@
+.md-nav-wrap,
+#accordion h3, #toogle h3 {
+    border-color: #086009;
+}
+
+.lavaLamp li.back,
+.md-navbar.nav-fix,
+#md-features .kami.origami-content,
+#accordion h3.ui-state-active,
+#toogle h3.ui-state-active,
+.buy-now {
+    background-color: #086009;
+}
+.md-navbar .md-logo h1 {
+    background: url('../images/logo-orange.png') no-repeat 0 0;
+}
+
+.md-review .md-dialog {
+    background: rgba(221,91,67,0.9);
+}
+.md-review .md-dialog:after {
+    border-top-color: rgba(221,91,67,0.9);
+}
+
+
+.kami,
+.kami [class^="icon-"],
+.element h2,
+#toogle h3 [class^="icon-"],
+.social-copyright [class^="icon-"]:hover {
+    color: #086009;
+}
+
+.tabs-inner ul li.ui-tabs-active a {
+    border-top: 2px solid #086009;
+}
+
+:selection,
+::-moz-selection {
+    background-color: #086009;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+    .md-navbar .md-logo h1 {
+        background-image: url('../images/logo-orange@2x.png');
+        background-size: 144px 32px;
+    }
+}
